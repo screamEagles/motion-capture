@@ -1,4 +1,4 @@
-# How to use this?
+# How to use the motion capture?
 <b>Step 1:</b> Open the Python folder, and edit this line of code to your liking:
 `cap = cv2.VideoCapture(0)`<br />
 Either use a number that represents the webcam you are using or enter the name (or the file path) of the video as a string.

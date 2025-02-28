@@ -1,5 +1,5 @@
 import cv2
-from cvzone.PoseModule import PoseDetector
+from cvzone.PoseModule import PoseDetector  # cvzone version: 1.5.5
 
 # you can also replace 'video.mp4' with the number 0 (or any other number based on which webcam are you using) to have your movement recorded realtime
 cap = cv2.VideoCapture(0)
